@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [MBR](mbr.md)
-   * DESIGN
+   * [DESIGN](design.md)
 
