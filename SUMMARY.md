@@ -5,4 +5,4 @@
 * [MBR](mbr.md)
    * [Design](mbr-design.md)
 * [BootLoader](bootLoader.md)
-   * [Switch-to-64](bootLoader-switch_to_64.md)
+   * [Switch-to-long-mode](bootLoader-switch_to_long_mode.md)
