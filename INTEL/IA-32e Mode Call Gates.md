@@ -1,0 +1,1 @@
+# IA-32e Mode Call Gates [IA-32e模式下的调用门]
