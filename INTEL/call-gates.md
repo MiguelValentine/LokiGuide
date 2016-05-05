@@ -10,4 +10,4 @@
 - 它定义了推送到目标堆栈的数据大小。16位门用16位，32位门用32位。
 - 它指定了调用门描述符是否有效。
 
-![](img/CALL-GATE-DESCRIPTOR-32.png)
+![](../img/CALL-GATE-DESCRIPTOR-32.png)
