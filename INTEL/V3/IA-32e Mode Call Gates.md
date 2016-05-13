@@ -17,4 +17,4 @@
 使用匹配远返回指令大小为正确的操作数（从64位的调用必须以一个64位操作数大小返回以正确地处理栈）。
   
   
-![](../img/CALL-GATE-DESCRIPTOR.png)
+![](../../img/CALL-GATE-DESCRIPTOR.png)
